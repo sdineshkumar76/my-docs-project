@@ -1,4 +1,4 @@
-site_name: My Documentation Project
+site_name: Dinesh's Docs
 nav:
   - Home: index.md
 theme:
