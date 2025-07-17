@@ -1,3 +1,2 @@
-# Welcome
-
-This is my first MkDocs page!
+site_name: My Docs Site
+docs_dir: docs
