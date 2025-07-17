@@ -4,8 +4,5 @@ This is a Markdown-based documentation project by Dinesh.
 
 ## 📘 What’s Inside?
 
-- Introduction
-- Git basics
-- Markdown formatting
-- Documentation tools (MkDocs, Docsify)
-- CI/CD for documentation
+- [Getting Started](getting-started/intro.md)
+- [Git Basics](git-basics/commands.md)
