@@ -3,7 +3,7 @@ name: Deploy MkDocs site
 on:
   push:
     branches:
-      - main  # Or master, depending on your default
+      - main  # Use "master" if that’s your default
 
 jobs:
   deploy:
