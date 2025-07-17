@@ -1,5 +1,1 @@
-site_name: Dinesh's Docs
-nav:
-  - Home: index.md
-theme:
-  name: material
+site_name: My Docs
