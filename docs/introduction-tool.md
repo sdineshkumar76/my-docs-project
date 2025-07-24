@@ -1,4 +1,4 @@
-# Meet Your Automation Assistant
+# Introducing TaskHero Tool
 
 Welcome to the documentation for our new automation tool!
 
