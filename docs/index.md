@@ -1,3 +1,3 @@
 # Welcome to My Docs Site
 
-This is the homepage of your documentation site built using MkDocs!
+We are excited to share our knowledge base and resources with you!
