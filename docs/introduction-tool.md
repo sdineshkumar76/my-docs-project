@@ -1,4 +1,4 @@
-# Tool Introduction
+# Meet Your Automation Assistant
 
 Welcome to the documentation for our new automation tool!
 
